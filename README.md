@@ -5,7 +5,7 @@
 🤔 In a quest to level up my DSA skills—give me all the algorithms, baby! 🧠💡<br>
 💬 Got questions? Let’s chat about anything and everything! 🎤🎉<br>
 😄 Pronouns: He/Him, but you can call me the coding wizard! 🧙‍♂️<br>
-⚡ Fun fact: Did you know? A snail can sleep for 3 years. 😴 But I’ll be awake coding through the night! 🌙💻<br>
+⚡ <strong>Fun fact:</strong> Did you know? A snail can sleep for 3 years. 😴 But I’ll be awake coding through the night! 🌙💻<br>
 
 
 ## 🌐 Socials:
