@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 Currently conquering LeetCode puzzles like a coding superhero 🦸‍♂️🦸‍♀️
-🌱 Diving deep into image processing—pixel-perfect magic in the making! ✨
-👯 Looking to team up for awesome PHP & Python projects—let’s code together and make some tech waves! 🌊
-🤔 In a quest to level up my DSA skills—give me all the algorithms, baby! 🧠💡
-💬 Got questions? Let’s chat about anything and everything! 🎤🎉
-😄 Pronouns: [insert pronouns here], but you can call me the coding wizard! 🧙‍♂️
-⚡ Fun fact: Did you know? A snail can sleep for 3 years. 😴 But I’ll be awake coding through the night! 🌙💻
+🔭 Currently conquering LeetCode puzzles like a coding superhero 🦸‍♂️🦸‍♀️<br>
+🌱 Diving deep into image processing—pixel-perfect magic in the making! ✨<br>
+👯 Looking to team up for awesome PHP & Python projects—let’s code together and make some tech waves! 🌊<br>
+🤔 In a quest to level up my DSA skills—give me all the algorithms, baby! 🧠💡<br>
+💬 Got questions? Let’s chat about anything and everything! 🎤🎉<br>
+😄 Pronouns: [insert pronouns here], but you can call me the coding wizard! 🧙‍♂️<br>
+⚡ Fun fact: Did you know? A snail can sleep for 3 years. 😴 But I’ll be awake coding through the night! 🌙💻<br>
 
 
 ## 🌐 Socials:
